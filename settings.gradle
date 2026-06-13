@@ -1,0 +1,5 @@
+rootProject.name = 'JudgifyCore'
+
+include 'api'
+include 'worker'
+include 'core'
