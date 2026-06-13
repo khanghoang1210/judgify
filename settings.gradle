@@ -1,4 +1,4 @@
-rootProject.name = 'JudgifyCore'
+rootProject.name = 'judgify'
 
 include 'api'
 include 'worker'
