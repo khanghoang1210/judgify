@@ -1,6 +1,6 @@
-package com.judgify.core.entity;
+package com.judgify.core.problem.entity;
 
-import com.judgify.core.enums.SubmissionStatus;
+import com.judgify.core.problem.enums.SubmissionStatus;
 import jakarta.persistence.*;
 import lombok.*;
 import org.hibernate.annotations.CreationTimestamp;

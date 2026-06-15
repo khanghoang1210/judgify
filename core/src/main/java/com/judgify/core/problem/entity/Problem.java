@@ -1,6 +1,6 @@
-package com.judgify.core.entity;
+package com.judgify.core.problem.entity;
 
-import com.judgify.core.enums.Difficulty;
+import com.judgify.core.problem.enums.Difficulty;
 import jakarta.persistence.*;
 import lombok.*;
 import org.hibernate.annotations.CreationTimestamp;

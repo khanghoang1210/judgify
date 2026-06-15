@@ -1,4 +1,4 @@
-package com.judgify.core.entity;
+package com.judgify.core.problem.entity;
 
 import jakarta.persistence.*;
 import lombok.*;

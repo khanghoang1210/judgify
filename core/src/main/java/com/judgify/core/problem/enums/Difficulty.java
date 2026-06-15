@@ -1,4 +1,4 @@
-package com.judgify.core.enums;
+package com.judgify.core.problem.enums;
 
 public enum Difficulty {
     EASY, MEDIUM, HARD
